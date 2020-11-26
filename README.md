@@ -1,2 +1,2 @@
 # Snack_LAHB
-Website for Doggo treat business
+website design for Doggo treat business 
